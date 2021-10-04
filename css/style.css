@@ -1,0 +1,236 @@
+body {
+  background-color: #f5f7fa;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+}
+
+/* Contact Section */
+
+.main-content {
+  padding: 100px 90px;
+}
+/* About me Section */
+.about-me {
+  margin-bottom: 40px;
+}
+.about-me-profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  margin-bottom: 20px;
+}
+.First-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: black;
+  line-height: 54 86px;
+  margin-bottom: 25px;
+}
+.Some-Text {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.Some-Text-2 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 300px;
+}
+/* My projects Section */
+.Header-Projects,
+.Header-Experience,
+.Header-Education {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 10px;
+  color: #000;
+}
+
+.my-projects {
+  margin-bottom: 50px;
+}
+
+.Projects-List {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+  padding-left: 17px;
+}
+.Projects-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 10px;
+}
+.Projects-Link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.Projects-bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+}
+.my-Work-experience {
+  padding-bottom: 40px;
+}
+
+/* Work Experience */
+
+.Position-Name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000;
+  margin-bottom: 10px;
+}
+.Name-of-company {
+  color: #fb6d3a;
+}
+.Work-time {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #595959;
+  margin-bottom: 5px;
+}
+.Work-list {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding-left: 17px;
+}
+.Work-Text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 510px;
+}
+/* Education section */
+.my-Education {
+  padding-bottom: 100px;
+}
+.Name-of-educational-institution {
+  color: #fb6d3a;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+.Name-of-learning-profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  margin: 10px 0 10px 0;
+}
+.Teaching-time {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #595959;
+}
+
+/* Sidebar */
+.Sidebar {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0;
+}
+.Contacts-Sidebar,
+.Tech-skills-Sidebar,
+.Soft-Skills-Sidebar {
+  margin: 50px 0 0 40px;
+}
+.Title-Contacts-Sidebar,
+.Title-TechSkills-Sidebar,
+.Title-SoftSkills-Sidebar {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+/* Sidebar Contacts Section */
+.Contacts-Sidebar-Type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 5px;
+}
+.Contacts-Sidebar-Link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #565e6a;
+}
+
+.Dot-TechSkill-Sidebar,
+.Dot-SoftSkill-Sidebar {
+  padding: 0 0 0 17px;
+  color: #fb6d3a;
+}
+
+.TechSkill-Sidebar-Text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+.SoftSkills-Sidebar-Text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+.Buttons {
+  margin: 620px 0 0 130px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #565e6a;
+}
